@@ -1,6 +1,6 @@
 cask "spaceswitcher" do
-  version "0.3.1"
-  sha256 "52f910b166512e51aed1d14d229dc0a33057a5a40a7dba9ef3d90fc61e8269f5"
+  version "0.3.2"
+  sha256 "32df431cdef994ae3bc38d5ab0df6ac2b7bdde259ccba3c771241c1435616dea"
 
   url "https://github.com/unh6unh6/SpaceSwitcher/releases/download/v#{version}/SpaceSwitcher-#{version}.dmg"
   name "SpaceSwitcher"
