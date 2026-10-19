@@ -1,11 +1,11 @@
 cask "spaceswitcher" do
-  version "0.5.0"
-  sha256 "79b96ce6968f3f30497c8176a04f8dd22f5438770770b405fd1ece9db1194512"
+  version "0.6.0"
+  sha256 "20ac07c98cf4ebda578a8d7151e96a7250805300404faaf535138e43e840920f"
 
-  url "https://github.com/unh6unh6/SpaceSwitcher/releases/download/v#{version}/SpaceSwitcher-#{version}.dmg"
+  url "https://github.com/unh6unh6/space-switcher/releases/download/v#{version}/SpaceSwitcher-#{version}.dmg"
   name "SpaceSwitcher"
   desc "Name desktops (Spaces) and switch between them with Option+E"
-  homepage "https://github.com/unh6unh6/SpaceSwitcher"
+  homepage "https://github.com/unh6unh6/space-switcher"
 
   depends_on macos: :sonoma
 
